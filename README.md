@@ -3,7 +3,7 @@
 
 
 
-Hola 👋, soy Tiago Fullstack Developer de Mendoza, Argentina con ganas de trabajar en todo el mundo 🌎.🗣 Soy una persona creativa, curiosa y apasionada por los retos. Ha sido un largo camino llegar a la industria IT pero es el lugar donde me siento cómodo, disfruto y puedo explotar al máximo mis capacidades.✅ Mi objetivo es realizar mi trabajo diario en un entorno que me permita desarrollarme al máximo, aportando mi formación y crecimiento personal910🧑🏽‍💻 Si busca un profesional responsable, entusiasta y con ganas de demostrar cada día mi máximo potencial, no dude en ponerse en contacto conmigo.
+Hola 👋, soy Tiago Fullstack Developer de Mendoza, Argentina con ganas de trabajar en todo el mundo 🌎.🗣 Soy una persona creativa, curiosa y apasionada por los retos. Ha sido un largo camino llegar a la industria IT pero es el lugar donde me siento cómodo, disfruto y puedo explotar al máximo mis capacidades.✅ Mi objetivo es realizar mi trabajo diario en un entorno que me permita desarrollarme al máximo, aportando mi formación y crecimiento personal🧑🏽‍💻 Si busca un profesional responsable, entusiasta y con ganas de demostrar cada día mi máximo potencial, no dude en ponerse en contacto conmigo.
 
 
 ✉️ oscarbergmann1106@gmail.com
