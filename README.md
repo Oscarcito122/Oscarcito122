@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Oscarcito122&label=Profile%20views&color=0e75b6&style=flat" alt="oscarcito122" /> </p>
 
--🔭 I am currently looking for my first job as a **Junior Frontend Developer.**
+- 🔭 I am currently looking for my first job as a **Junior Frontend Developer.**
 
 - 🌱 I’m currently learning **Typescript, NextJS and React Native**
 
